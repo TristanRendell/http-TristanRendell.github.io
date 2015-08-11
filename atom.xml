@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://tristanrendell.github.io/atom.xml" rel="self"/>
   <link href="http://tristanrendell.github.io/"/>
-  <updated>2015-08-10T20:54:56-07:00</updated>
+  <updated>2015-08-10T21:00:12-07:00</updated>
   <id>http://tristanrendell.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[It Was Only ANOTHER Test...]]></title>
+    <link href="http://tristanrendell.github.io/blog/2015/08/10/it-was-only-another-test-dot-dot-dot/"/>
+    <updated>2015-08-10T20:57:56-07:00</updated>
+    <id>http://tristanrendell.github.io/blog/2015/08/10/it-was-only-another-test-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>This too is only a test.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[It Was Only a Test...]]></title>

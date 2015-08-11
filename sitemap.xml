@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://tristanrendell.github.io/blog/2015/08/10/it-was-only-another-test-dot-dot-dot/</loc>
+    <lastmod>2015-08-10T20:57:56-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://tristanrendell.github.io/blog/2015/08/10/it-was-only-a-test-dot-dot-dot/</loc>
     <lastmod>2015-08-10T20:06:46-07:00</lastmod>
   </url>
