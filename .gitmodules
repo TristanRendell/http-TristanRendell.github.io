@@ -1,0 +1,9 @@
+[submodule "src/pelican"]
+	path = src/pelican
+	url = https://github.com/MakeItZone/pelican.git
+[submodule "src/pelican-plugins"]
+	path = src/pelican-plugins
+	url = https://github.com/MakeItZone/pelican-plugins.git
+[submodule "src/pelican-bootstrap3"]
+	path = src/pelican-bootstrap3
+	url = https://github.com/MakeItZone/pelican-bootstrap3.git

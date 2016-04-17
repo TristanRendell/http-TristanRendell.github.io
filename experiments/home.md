@@ -1,0 +1,125 @@
+Title: Welcome!
+URL: index.html
+save_as: index.html
+template: page
+JavaScripts: home.js
+Stylesheets: home.css
+
+<!-- Section #1 -->
+<section id="intro" data-speed="6" data-type="background">
+		<div class="row">
+	        <div class="col-md-4 text-center">
+	          <img src="images/desktop.png" class="img-responsive center-block">
+	        </div>
+	        <div class="col-md-8 text-center">
+	          <img src="images/title.png" class="img-responsive center-block">
+	        </div>
+    	</div>
+    	<div id="container">
+	    	<div id="block" class="hero-unit">
+	    		<h2>This page demonstrates parallax within Twitter Bootstrap.</h2>
+	    		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	    		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	    		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	    		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	    		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	    		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	    	</div>
+    	</div>
+    	<div id="reset"></div>
+</section>
+
+<!-- Section #2 -->
+<section id="home" data-speed="4" data-type="background">
+	<div class="row">
+        <div class="col-md-4">
+        	<div class="row">
+        		<div class="col-md-11 well">
+		          <h2>Heading</h2>
+		          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque cursus nisl consectetur et.</p>
+		          <p><a class="btn btn-success" href="#">View details &raquo;</a></p>
+	          	</div>
+          	</div>
+        </div><!-- /.span4 -->
+        <div class="col-md-4 well">
+          <h2>Heading</h2>
+          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <p><a class="btn btn-success" href="#">View details &raquo;</a></p>
+        </div><!-- /.span4 -->
+        <div class="col-md-4 well">
+          <h2>Heading</h2>
+          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum odio, dapibus ac in, massa justo sit amet.</p>
+          <p><a class="btn btn-success" href="#">View details &raquo;</a></p>
+        </div><!-- /.span4 -->
+	</div>
+</section>
+
+<!-- Section #3 -->
+<section id="about" data-speed="2" data-type="background">
+	<div class="page-header">
+		<h1>Final Section Headline <small>Some subtext goes here...</small></h1>
+	</div>
+	<div class="row">
+        <div class="col-md-4">
+          <h2>More Details</h2>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque cursus nisl consectetur et.</p>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque cursus nisl consectetur et.</p>
+          <p><a class="btn btn-success">View details &raquo;</a></p>
+        </div><!-- /.span4 -->
+        <div class="col-md-4">
+         	<h2>Heading</h2>
+         	<div class="media">
+				<a class="pull-left" href="#">
+			    	<img class="media-object" src="images/check.png">
+				</a>
+				<div class="media-body">
+				    <h4 class="media-heading">Media heading</h4>
+				    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante.
+				</div>
+			</div>
+         	<div class="media">
+				<a class="pull-left" href="#">
+			    	<img class="media-object" src="images/check.png">
+				</a>
+				<div class="media-body">
+				    <h4 class="media-heading">Media heading</h4>
+				    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante.
+				</div>
+			</div>
+         	<div class="media">
+				<a class="pull-left" href="#">
+			    	<img class="media-object" src="images/check.png">
+				</a>
+				<div class="media-body">
+				    <h4 class="media-heading">Media heading</h4>
+				    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante.
+				</div>
+			</div>
+        </div><!-- /.span4 -->
+        <div class="col-md-4">
+          <h2>Log In</h2>
+          <form class="form">
+			  <div class="control-group">
+			    <label class="control-label" for="inputEmail">Email</label>
+			    <div class="controls">
+			      <input type="text" id="inputEmail" placeholder="Email">
+			    </div>
+			  </div>
+			  <div class="control-group">
+			    <label class="control-label" for="inputPassword">Password</label>
+			    <div class="controls">
+			      <input type="password" id="inputPassword" placeholder="Password">
+			    </div>
+			  </div>
+			  <div class="control-group">
+			    <div class="controls">
+			      <label class="checkbox">
+			        <input type="checkbox"> Remember me <br><br>
+			      </label>
+			      <button type="submit" class="btn btn-success">Sign in</button>
+			    </div>
+			  </div>
+			</form>
+        </div><!-- /.span4 -->
+	</div>
+</section>
