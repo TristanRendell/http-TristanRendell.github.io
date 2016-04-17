@@ -102,11 +102,12 @@ THEME = 'src/pelican-bootstrap3'
 
 
 # tell pelican where your custom.css file is in your content folder
-STATIC_PATHS = ['images', 'extras/custom.css']
+STATIC_PATHS = ['images', 'extras/custom.css', 'extras/CNAME']
 
 # tell pelican where it should copy that file to in your output folder
 EXTRA_PATH_METADATA = {
-'extras/custom.css': {'path': 'static/custom.css'}
+'extras/custom.css': {'path': 'static/custom.css'},
+'extras/CNAME': {'path': 'CNAME'}
 }
 
 # tell the pelican-bootstrap-3 theme where to find the custom.css file in your output folder
