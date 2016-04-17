@@ -1,9 +1,16 @@
+var clearbgimage = function(p) {
+    p.player.addEventListener('onStateChange', function(event){
+        if (event.data ==1) {
+            $("#bodycontainer").css("background-image", "none")
+        }
+    });
+};
+
 $(function() {
 	$('#bodycontainer').YTPlayer({
 	    fitToBackground: true,
 	    videoId: '-MOZwQ_8mv8',
-        callback: function() {$("#bodycontainer").css("background-image", "none")},
-
+        callback: clearbgimage,
 	    playerVars: {
 			modestbranding: 1,
 			autoplay: 1,
