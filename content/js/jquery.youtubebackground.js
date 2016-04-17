@@ -127,6 +127,8 @@ if (typeof Object.create !== "function") {
           if (e.data === 1) {
 
             //self.$node.find('img').fadeOut(400);
+            $("#bodycontainer").css("background-image", "none")
+
             self.$node.addClass('loaded');
           } else if (e.data === 0 && self.options.repeat) { // video ended and repeat option is set true
             self.player.seekTo(self.options.start);

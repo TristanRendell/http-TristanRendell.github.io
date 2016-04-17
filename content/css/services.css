@@ -28,6 +28,11 @@
   z-index: 1;
 }
 
+#bodycontainer {
+  background-image: url('/images/taz4.jpg');
+  background-size: cover;
+}
+
 /* The shield stops clicks from reaching the background video player. */
 /* Set the z-index behind the video layer to disable this. */
 .ytplayer-shield {
