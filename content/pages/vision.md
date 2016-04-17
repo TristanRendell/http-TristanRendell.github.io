@@ -7,11 +7,13 @@ JavaScripts: vision.js
 Stylesheets: vision.css, http://fonts.googleapis.com/css?family=Asap:400
 
 <div id="pinContainer">
+
 <div id="p0" class="slide">
 <div class="pull-right" style="position: relative; right: 50px">
 <div class="bouncy"><i class="fa fa-arrow-circle-down fa-lg"></i>
 </div>
-</div><table>
+</div>
+<table>
 <tr>
 <td width="10%">&nbsp;</td>
 <td>
@@ -29,6 +31,7 @@ There is a palpable energy and excitement in the air.
 </div>
 </div>
 </div>
+
 <div id="p1" class="slide">
 <table>
 <tr>
@@ -43,6 +46,7 @@ Move further inside&hellip;<div class="clearfix"><br></div>
 <div class="slidefooter"><i class="fa fa-camera-retro fa-lg"></i><a class="icon-label" href="https://flic.kr/p/3GPtKS">Paul Downey, Foyer</a>
 </div>
 </div>
+
 <div id="p2" class="slide">
 <table>
 <tr>
@@ -59,6 +63,7 @@ Individuals and groups can be seen working on projects.<div class="clearfix"><br
 <div class="slidefooter"><i class="fa fa-camera-retro fa-lg"></i><a class="icon-label" href="https://flic.kr/p/dwYcqT">Mitch Altman, VoidWarranties Workshop for Kids, Antwerp, Belgium, Nov-2012</a>
 </div>
 </div>
+
 <div id="p3" class="slide">
 <table>
 <tr>
@@ -77,6 +82,7 @@ Children learning from elders and elders learning from children.<div class="clea
 <div class="slidefooter"><i class="fa fa-camera-retro fa-lg"></i><a class="icon-label" href="https://flic.kr/p/rSBrgx">The Maryland Science Center</a>
 </div>
 </div>
+
 <div id="p4" class="slide">
 <table>
 <tr>
@@ -96,7 +102,9 @@ By you.
 </div>
 </div>
 </div> <!-- pinContainer -->
+
 <br>
+
 <em class="lead">Welcome to MakeItZone. The place to make your dreams real, and to learn by doing.  A safe and welcoming space for people with different skill sets and interests to meet, learn, and work on their projects. Building community. Building the future.</em>
 
 Our plan is to create a for profit __Makerspace__ here in Richmond, that is accessible to all ages, including elementary school children.
