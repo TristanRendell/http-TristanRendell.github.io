@@ -5,91 +5,91 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://makeit.zone/</loc>
-<lastmod>2016-04-17T01:33:20-00:00</lastmod>
+<lastmod>2016-04-17T01:38:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://makeit.zone/archives.html</loc>
-<lastmod>2016-04-17T01:33:20-00:00</lastmod>
+<lastmod>2016-04-17T01:38:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://makeit.zone/tags.html</loc>
-<lastmod>2016-04-17T01:33:20-00:00</lastmod>
+<lastmod>2016-04-17T01:38:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://makeit.zone/categories.html</loc>
-<lastmod>2016-04-17T01:33:20-00:00</lastmod>
+<lastmod>2016-04-17T01:38:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://makeit.zone/about.html</loc>
-<lastmod>2016-04-17T01:33:20-00:00</lastmod>
+<lastmod>2016-04-17T01:38:16-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://makeit.zone/classes.html</loc>
-<lastmod>2016-04-17T01:33:20-00:00</lastmod>
+<lastmod>2016-04-17T01:38:16-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://makeit.zone/contact.html</loc>
-<lastmod>2016-04-17T01:33:20-00:00</lastmod>
+<lastmod>2016-04-17T01:38:16-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://makeit.zone/feedback.html</loc>
-<lastmod>2016-04-17T01:33:20-00:00</lastmod>
+<lastmod>2016-04-17T01:38:16-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://makeit.zone/</loc>
-<lastmod>2016-04-17T01:33:20-00:00</lastmod>
+<lastmod>2016-04-17T01:38:16-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://makeit.zone/plans.html</loc>
-<lastmod>2016-04-17T01:33:20-00:00</lastmod>
+<lastmod>2016-04-17T01:38:16-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://makeit.zone/schedule.html</loc>
-<lastmod>2016-04-17T01:33:20-00:00</lastmod>
+<lastmod>2016-04-17T01:38:16-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://makeit.zone/services.html</loc>
-<lastmod>2016-04-17T01:33:20-00:00</lastmod>
+<lastmod>2016-04-17T01:38:16-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://makeit.zone/vision.html</loc>
-<lastmod>2016-04-17T01:33:20-00:00</lastmod>
+<lastmod>2016-04-17T01:38:16-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -109,14 +109,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://makeit.zone/tag/web.html</loc>
+<loc>http://makeit.zone/tag/business.html</loc>
 <lastmod>2016-03-27T00:00:00-08:12</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://makeit.zone/tag/business.html</loc>
+<loc>http://makeit.zone/tag/web.html</loc>
 <lastmod>2016-03-27T00:00:00-08:12</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>

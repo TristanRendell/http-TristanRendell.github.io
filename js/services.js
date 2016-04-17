@@ -1,10 +1,13 @@
-var clearbgimage = function(p) {
-    p.player.addEventListener('onStateChange', function(event){
+var clearbgimage = function() {
+    var player = $('#background-video').data('ytPlayer').player;
+    player.addEventListener('onStateChange', function(event){
         if (event.data ==1) {
             $("#bodycontainer").css("background-image", "none")
         }
     });
-};
+
+
+}
 
 $(function() {
 	$('#bodycontainer').YTPlayer({
