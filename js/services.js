@@ -2,6 +2,8 @@ $(function() {
 	$('#bodycontainer').YTPlayer({
 	    fitToBackground: true,
 	    videoId: '-MOZwQ_8mv8',
+        callback: function() {$("#bodycontainer").css("background-image", "none")},
+
 	    playerVars: {
 			modestbranding: 1,
 			autoplay: 1,

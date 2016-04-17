@@ -20,18 +20,16 @@ $(function() {
 					.addTo(controller);
 
 	new ScrollMagic.Scene({triggerElement: "#julian_trigger", duration:0, offset:100})
-        			.addTo(controller)
         			.triggerHook("onCenter")
         			.setTween(TweenMax.from("#julian_pic", 2, {rotation:-360, scale: 0, ease: Elastic.easeOut, delay: 0.5}))
-	 				.addIndicators({name:"Julian"}) // add indicators (requires plugin)
+	 				//.addIndicators({name:"Julian"}) // add indicators (requires plugin)
+        			.addTo(controller);
 
 	new ScrollMagic.Scene({triggerElement: "#sarah_trigger", duration:0})
-        			.addTo(controller)
         			.triggerHook("onCenter")
         			.setTween(TweenMax.from("#sarah_pic", 2, {rotation:-360, scale: 0, ease: Elastic.easeOut, delay: 0.5}))
 	 				// .addIndicators({name:"Sarah"}) // add indicators (requires plugin)
-
-
+        			.addTo(controller);
 
     // reveal the 'pop' icons
     $(".pop").each(function(i) { $(this).css({"visibility":"visible"})});
