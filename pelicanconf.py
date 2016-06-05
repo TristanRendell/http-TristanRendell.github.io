@@ -95,7 +95,7 @@ SITEMAP = {'format':'xml'}
 TYPOGRIFY = True
 INDEX_SAVE_AS = 'blog_index.html'
 
-THEME = 'src/pelican-bootstrap3'
+THEME = 'src/pelican-themes/pelican-bootstrap3'
 #BOOTSTRAP_THEME = 'paper'
 # TO DO - CREATE FAVICON!!!
 # FAVICON = "images/favicon.png"

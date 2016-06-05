@@ -4,6 +4,90 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"rih",
+				"margin-right"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"trans",
+				"translateZ()"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"he",
+				"height	Attr"
+			],
+			[
+				"pin",
+				"pinContainer"
+			],
+			[
+				"trigg",
+				"triggerAnim"
+			],
+			[
+				"ex",
+				"exitTl"
+			],
+			[
+				"rea",
+				"revealTl"
+			],
+			[
+				"reve",
+				"revealTl"
+			],
+			[
+				"pos",
+				"postContent"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"intro",
+				"introThreeD"
+			],
+			[
+				"intr",
+				"introThreeD"
+			],
+			[
+				"trig",
+				"triggerHook"
+			],
+			[
 				"NAVB",
 				"NAVBARMENUPAGES"
 			],
@@ -60,7 +144,7 @@
 		"selected_items":
 		[
 		],
-		"width": 392.0
+		"width": 467.0
 	},
 	"console":
 	{
@@ -82,59 +166,89 @@
 	[
 		"/Users/julian/virtualenvs/pelican",
 		"/Users/julian/virtualenvs/pelican/content",
-		"/Users/julian/virtualenvs/pelican/content/courses/CAD",
-		"/Users/julian/virtualenvs/pelican/content/css",
-		"/Users/julian/virtualenvs/pelican/content/js",
-		"/Users/julian/virtualenvs/pelican/content/pages",
-		"/Users/julian/virtualenvs/pelican/output",
-		"/Users/julian/virtualenvs/pelican/output/theme",
-		"/Users/julian/virtualenvs/pelican/output/theme/js",
-		"/Users/julian/virtualenvs/pelican/src",
-		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3",
-		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static",
-		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/css/pygments",
-		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/html",
-		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/js",
-		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/tipuesearch/img",
-		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates",
-		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes"
+		"/Users/julian/virtualenvs/pelican/content/Behind the Scenes"
 	],
 	"file_history":
 	[
-		"/Users/julian/virtualenvs/pelican/pelicanconf.py",
+		"/Users/julian/Documents/JuliansDocuments/Finance, Business, Tax, etc/Business Plans - MakeItZone/Logo/MakeItZone-logo.svg",
+		"/Users/julian/virtualenvs/pelican/content/Behind the Scenes/Notes on This Website.md",
+		"/Users/julian/virtualenvs/pelican/content/Behind the Scenes/JS and CSS Notes",
+		"/Users/julian/Downloads/Makita_Spindle_Adapter_for_Shapeoko_2_Spindle/makita.gcode",
+		"/Users/julian/Desktop/SimplifyBug/plunger-default-plus-wipe-plus-retract-during-wipe.gcode",
+		"/Volumes/NO NAME/leon.gcode",
+		"/Users/julian/Downloads/plunger.gcode",
+		"/Users/julian/virtualenvs/pelican/content/pages/vision.md",
+		"/Users/julian/virtualenvs/pelican/content/js/services.js",
+		"/Users/julian/virtualenvs/pelican/content/css/vision.css",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/twitter_loader.html",
+		"/Users/julian/virtualenvs/pelican/content/pages/services.md",
+		"/Users/julian/virtualenvs/pelican/content/css/services.css",
+		"/Users/julian/virtualenvs/pelican/content/extras/custom.css",
+		"/Users/julian/virtualenvs/pelican/content/js/jquery.youtubebackground.js",
+		"/Users/julian/virtualenvs/pelican/content/js/about.js",
+		"/Users/julian/virtualenvs/pelican/content/css/home.css",
+		"/Users/julian/virtualenvs/pelican/content/pages/home.md",
+		"/Users/julian/virtualenvs/pelican/content/js/contact.js",
+		"/Users/julian/virtualenvs/pelican/content/js/home.js",
+		"/Users/julian/virtualenvs/pelican/content/js/vision.js",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/sidebar-facebook.html",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/twitter_timeline.html",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/base.html",
-		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/js/responsiveFacebook.js",
-		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/sidebar.html",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/sidebar-youtube.html",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/html/facebook_iframe.html",
+		"/Users/julian/virtualenvs/pelican/content/pages/classes.md",
+		"/Users/julian/virtualenvs/pelican/content/css/classes.css",
+		"/Users/julian/virtualenvs/pelican/content/css/about.css",
+		"/Users/julian/virtualenvs/pelican/content/js/classes.js",
+		"/Users/julian/virtualenvs/pelican/content/pages/contact.md",
+		"/Users/julian/virtualenvs/pelican/content/pages/about.md",
+		"/Volumes/PRINTER/Jeffhack.gcode",
+		"/Volumes/PRINTER/jeff-fix.gcode",
+		"/Users/julian/virtualenvs/pelican/pelicanconf.py",
+		"/Users/julian/virtualenvs/pelican/content/css/contact.css",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/links.html",
+		"/Users/julian/virtualenvs/pelican/content/pages/schedule.md",
+		"/Users/julian/virtualenvs/pelican/content/pages/feedback.md",
+		"/Users/julian/virtualenvs/pelican/content/pages/plans.md",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/css/splitText.css",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/js/SplitTextPlugin.js",
+		"/Users/julian/Desktop/SEP Meeting 1016_04_08",
+		"/Users/julian/virtualenvs/pelican/experiments/frontpage- fixes.mdown",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/sidebar-categories.html",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/sidebar-pages.html",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/sidebar.html",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/scrollmagic-script.html",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/article.html",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/page.html",
+		"/Users/julian/virtualenvs/pelican/output/js/vision.js",
+		"/Users/julian/virtualenvs/pelican/src/pelican/build/lib/pelican/settings.py",
+		"/Users/julian/virtualenvs/pelican/src/pelican-plugins/extract_toc/extract_toc.py",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/userreport-script.html",
+		"/Users/julian/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/julian/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/smooch_script.html",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/sidebar-series.html",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/sidebar-tags.html",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/sidebar-recentposts.html",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/sidebar-sociallinks.html",
+		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/js/responsiveFacebook.js",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/categories.html",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/js/responsiveYouTubeAndVimeo.js",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/category.html",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/article_info.html",
-		"/Users/julian/virtualenvs/pelican/content/pages/vision.md",
-		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/links.html",
-		"/Users/julian/virtualenvs/pelican/content/pages/schedule.md",
-		"/Users/julian/virtualenvs/pelican/content/pages/contact.md",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/tipuesearch/tipuesearch.css",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/tipuesearch/tipuesearch.js",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/tipuesearch/img/search.png",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/search.html",
-		"/Users/julian/virtualenvs/pelican/content/pages/feedback.md",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/archives.html",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/footer.html",
 		"/Users/julian/virtualenvs/pelican/output/categories.html",
-		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/page.html",
-		"/Users/julian/virtualenvs/pelican/content/pages/home.md",
-		"/Users/julian/virtualenvs/pelican/content/js/home.js",
-		"/Users/julian/virtualenvs/pelican/content/css/home.css",
-		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/article.html",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/screenshot-article.png",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/css/pygments/autumn.css",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/css/bootstrap.amelia.min.css",
-		"/Users/julian/virtualenvs/pelican/content/pages/plans.md",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/comments.html",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/base-splash.html",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/splash.html",
-		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/includes/twitter_timeline.html",
 		"/Users/julian/virtualenvs/pelican/content/index2.html",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/static/js/splash-parallax.js",
 		"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3/templates/tags.html",
@@ -183,27 +297,7 @@
 		"/Users/julian/Documents/JuliansDocuments/Finance, Business, Tax, etc/Business Plans - MakeItZone/IT Consulting/LivingHealth/VMSetup/ubuntu-15.04-server-amd64/isolinux/lang",
 		"/Users/julian/Documents/JuliansDocuments/Finance, Business, Tax, etc/Business Plans - MakeItZone/IT Consulting/LivingHealth/VMSetup/preseed/preseed-basic-server.cfg",
 		"/Users/julian/Documents/JuliansDocuments/Finance, Business, Tax, etc/Business Plans - MakeItZone/IT Consulting/LivingHealth/VMSetup/ubuntu-15.04-server-amd64/isolinux/prompt.cfg",
-		"/Users/julian/Documents/JuliansDocuments/Finance, Business, Tax, etc/Business Plans - MakeItZone/IT Consulting/LivingHealth/VMSetup/ubuntu-15.04-server-amd64/isolinux/isolinux.cfg",
-		"/Users/julian/Documents/JuliansDocuments/Finance, Business, Tax, etc/Business Plans - MakeItZone/IT Consulting/LivingHealth/VMSetup/preseed/preseed-first-attempt.cfg",
-		"/Users/julian/Documents/JuliansDocuments/Finance, Business, Tax, etc/Business Plans - MakeItZone/IT Consulting/LivingHealth/VMSetup/preseed/preseed-install-generated.cfg",
-		"/Users/julian/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/julian/Documents/JuliansDocuments/Finance, Business, Tax, etc/Business Plans - MakeItZone/IT Consulting/LivingHealth/VMSetup/preseed.cfg",
-		"/Users/julian/Downloads/3dhubs/Order-1491857-Kris-models/1x_cx20-batterycut2_original/cx20-batterycut2_original_mm.gcode",
-		"/Users/julian/Downloads/3dhubs/Order-1491857-Kris-models/1x_cx20-batterycut1_original/cx20-batterycut1_original_mm.gcode",
-		"/Users/julian/Documents/JuliansDocuments/Finance, Business, Tax, etc/Business Plans - MakeItZone/Business Plan/Overview Plan/DevelopmentOverview.dot",
-		"/Users/julian/Documents/JuliansDocuments/Finance, Business, Tax, etc/Business Plans - MakeItZone/Business Plan/Overview Plan/Development Overview.dot",
-		"/Users/julian/Documents/JuliansDocuments/Finance, Business, Tax, etc/Business Plans - MakeItZone/test.dot",
-		"/Users/julian/Desktop/Humble Bundle/Children's Comic Book Week/dumpsafaricookies.py",
-		"/Users/julian/Downloads/3dhubs/Order-1227684-frank-models/Shocke bikes clip-4.gcode",
-		"/Users/julian/Downloads/3dhubs/Order-1227684-frank-models/Shocke bikes clip-4-auto top fill .gcode",
-		"/Users/julian/Downloads/3dhubs/Order-1227684-frank-models/Shocke bikes clip-4-auto top fill2.gcode",
-		"/Users/julian/Downloads/3dhubs/Order-1227684-frank-models/Shocke bikes clip-4-auto top fill3.gcode",
-		"/Users/julian/Downloads/3dhubs/Order-1227684-frank-models/Shocke bikes clip-4-auto top fill4.gcode",
-		"/Users/julian/Downloads/3dhubs/Order-1227684-frank-models/Shocke bikes clip-4-auto top fill5.gcode",
-		"/Volumes/UNTITLED/menu.c32",
-		"/Users/julian/Desktop/Humble Bundle/Children's Comic Book Week/downloadlist.txt",
-		"/Users/julian/Downloads/3dhubs/Order-1106406-Lingkang-models/1x_st0_netfabb/st0_netfabb_mm-from59.9.gcode",
-		"/Users/julian/Downloads/3dhubs/Order-1051342-Amir-models/1x_Feed Pipe_netfabb/Feed Pipe_netfabb_mm-159.8up.gcode"
+		"/Users/julian/Documents/JuliansDocuments/Finance, Business, Tax, etc/Business Plans - MakeItZone/IT Consulting/LivingHealth/VMSetup/ubuntu-15.04-server-amd64/isolinux/isolinux.cfg"
 	],
 	"find":
 	{
@@ -214,6 +308,7 @@
 		"height": 93.0,
 		"where_history":
 		[
+			"/Users/julian/virtualenvs/pelican/src/",
 			"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap3",
 			"/Users/julian/virtualenvs/pelican/src/pelican-bootstrap",
 			"/Users/julian/virtualenvs/pelican/",
@@ -227,6 +322,45 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"font",
+			"e-",
+			"outer",
+			"e-",
+			"E-",
+			"retraction",
+			"http://stackoverflow.com/questions/4919076/outline-effect-to-text",
+			"defaults.events",
+			"callback",
+			"self.defa",
+			"self.options",
+			"callback",
+			"onyoutubeiframe",
+			"iframeisread",
+			"timeout",
+			"raspberry",
+			"parallaxParent",
+			"Z =",
+			"css",
+			"-3",
+			"img",
+			"css",
+			"shield",
+			"images/",
+			"console",
+			"<td >",
+			"valign=\"middle\"",
+			"splitwords",
+			" vertical-align",
+			"slides",
+			"panel",
+			"youtube",
+			"debugger",
+			"revealTl",
+			"justsplit",
+			"parallax.js",
+			"MD_EXTENSIONS",
+			"MD",
+			"spelling",
 			"custom",
 			"tag",
 			"recent",
@@ -294,6 +428,13 @@
 		"regex": true,
 		"replace_history":
 		[
+			"-4",
+			"/images/",
+			"<td>",
+			"",
+			"slidetext",
+			"slide",
+			"entryTl",
 			", \\n",
 			"WilyRepoMirror",
 			"",
@@ -352,7 +493,7 @@
 	"project": "makeitzone.sublime-project",
 	"replace":
 	{
-		"height": 40.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -386,11 +527,11 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 163.0,
+	"side_bar_width": 229.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
